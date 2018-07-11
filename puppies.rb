@@ -15,13 +15,13 @@ end
 
 def less_puppies(number_of_puppies)
   if number_of_puppies < 3
-    "Good job rachel!"
+    puts "Good job rachel!"
     elsif less_puppies
     if number_of_puppies > 3
-      "Animal restriction!"
+      puts "Animal restriction!"
       else less_puppies
       if number_of_puppies == 3
-        "Slow down."
+        puts "Slow down."
     end
 end
   puts number_of_puppies(3)
