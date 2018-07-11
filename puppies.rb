@@ -21,7 +21,7 @@ def less_puppies(number_of_puppies)
        "Animal restriction!"
       else less_puppies
       if number_of_puppies == 3
-        filter_parameter_logging "Slow down."
+         "Slow down."
     end
 end
   puts number_of_puppies(3)
