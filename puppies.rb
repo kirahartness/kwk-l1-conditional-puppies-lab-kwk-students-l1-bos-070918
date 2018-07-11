@@ -23,7 +23,7 @@ def less_puppies(number_of_puppies)
       if number_of_puppies == 3
         "Slow down."
     end
-end
+
   puts number_of_puppies(3)
   puts number_of_puppies(5)
   puts number_of_puppies(2)
